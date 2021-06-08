@@ -4,9 +4,10 @@
 # MARCO TEORICO
 ![2](https://user-images.githubusercontent.com/85193519/121120905-28729180-c7e4-11eb-8b2e-51b397434984.jpg)
 # EXPLICACION Y RESOLUCION DE EJERCICIOS
-![3](https://user-images.githubusercontent.com/85193519/121121054-8010fd00-c7e4-11eb-883f-f0f6697a50de.jpg)
-![4](https://user-images.githubusercontent.com/85193519/121121064-84d5b100-c7e4-11eb-9b42-ac5f95e0fdc6.jpg)
-![5](https://user-images.githubusercontent.com/85193519/121195926-a743ea80-c835-11eb-9211-2fe4a2480cd5.jpg)
+![1](https://user-images.githubusercontent.com/85193519/121265747-e8acb800-c87e-11eb-80bc-fa6907961de5.jpg)
+![2](https://user-images.githubusercontent.com/85193519/121265766-f104f300-c87e-11eb-9c9f-12e309fb2598.jpg)
+![3](https://user-images.githubusercontent.com/85193519/121265779-f6fad400-c87e-11eb-86ee-82f9361578d1.jpg)
+![5](https://user-images.githubusercontent.com/85193519/121265800-011cd280-c87f-11eb-891d-b095fd40c815.jpg)
 ![6](https://user-images.githubusercontent.com/85193519/121195956-af038f00-c835-11eb-9b66-2cd311b039c3.jpg)
 ![A](https://user-images.githubusercontent.com/85193519/121196145-d9ede300-c835-11eb-8cd2-6d6d9eb436ef.jpg)
 ![A1](https://user-images.githubusercontent.com/85193519/121196201-e5410e80-c835-11eb-935e-7844c1868ea8.jpg)
